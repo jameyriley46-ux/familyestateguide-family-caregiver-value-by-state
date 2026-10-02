@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below and link to https://familyestateguide.com/estate-planning-data/family-caregiver-value-by-state/
+type: dataset
+title: 'Family Caregiver Value by State: Home Health and Personal Care Aide Wages (BLS-only release)'
+abstract: 'State-by-state hourly and annual pay for home health and personal care aides (SOC 31-1120), BLS OEWS May 2025: the wage benchmark Family Estate Guide uses to value unpaid family caregiving.'
+authors:
+- name: Family Estate Guide
+  website: https://familyestateguide.com
+version: 1.0.0
+date-released: '2026-10-02'
+url: https://familyestateguide.com/estate-planning-data/family-caregiver-value-by-state/
+repository-code: https://github.com/jameyriley46-ux/familyestateguide-family-caregiver-value-by-state
+license: CC-BY-4.0
+keywords:
+- family caregivers
+- home health aides
+- personal care aides
+- caregiver pay
+- OEWS
+- state data
+- long-term care
+- elder care

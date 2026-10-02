@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Family Caregiver Value by State: Home Health and Personal Care Aide Wages (BLS-only release)",
+  "version": "1.0.0",
+  "description": "<p>State-by-state hourly and annual pay for home health and personal care aides (SOC 31-1120), BLS OEWS May 2025: the wage benchmark Family Estate Guide uses to value unpaid family caregiving.</p><p>Live page: <a href=\"https://familyestateguide.com/estate-planning-data/family-caregiver-value-by-state/\">https://familyestateguide.com/estate-planning-data/family-caregiver-value-by-state/</a>. Published by Family Estate Guide.</p><p>Rights review: Removed all AARP Public Policy Institute 'Valuing the Invaluable 2026' data (Table A1): aarp_smaller_state_flag, aarp_caregivers, aarp_care_hours_millions, aarp_value_millions, aarp_value_per_hour. AARP's report is copyrighted and not released under an open license. Removed columns computed from AARP figures: care_hours_per_caregiver_year, care_hours_per_caregiver_week, value_per_caregiver_at_aide_median, total_value_at_aide_median_millions, aarp_rate_minus_aide_median, rank_value_per_caregiver, rank_total_value. Result: the headline 'value of family caregiving' figures on the live page are not reproduced here; only the public-domain BLS wage inputs are.</p><p>Not legal, tax, financial or medical advice. Figures are estimates with sampling error; legal rules change. Verify anything important with the original source or a qualified professional.</p>",
+  "creators": [
+    {
+      "name": "Family Estate Guide",
+      "affiliation": "Family Estate Guide"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "family caregivers",
+    "home health aides",
+    "personal care aides",
+    "caregiver pay",
+    "OEWS",
+    "state data",
+    "long-term care",
+    "elder care"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://familyestateguide.com/estate-planning-data/family-caregiver-value-by-state/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
